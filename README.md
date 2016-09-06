@@ -29,7 +29,7 @@ Install sabisu is extremely easy, just add some gems to your `Gemfile`
 For projects using Rails 4.2 or newer, configure the following:
 
 ```ruby
-gem 'sabisu_rails', github: "IcaliaLabs/sabisu-rails"
+gem 'sabisu_rails', github: "jvrsgsty/sabisu-rails"
 gem 'compass-rails', '~> 2.0.2'
 gem 'furatto'
 gem 'font-awesome-rails'
