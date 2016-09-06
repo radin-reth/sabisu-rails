@@ -24,7 +24,7 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "rake", "~> 10.3"
   spec.add_development_dependency "debugger", "~> 1.6"
 
-  spec.add_dependency "activemodel", '~> 4.0'
-  spec.add_dependency "actionpack", '~> 4.0'
+  spec.add_dependency "activemodel", '~> 5.0'
+  spec.add_dependency "actionpack", '~> 5.0'
   spec.add_dependency "httparty", "~> 0.13"
 end
