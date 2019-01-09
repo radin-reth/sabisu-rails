@@ -3,7 +3,7 @@ module SabisuRails
 
     layout SabisuRails.layout
 
-    before_filter :authenticate
+    before_action :authenticate
 
     protected
 
